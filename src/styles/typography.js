@@ -1,4 +1,4 @@
-export const primaryFont = "font-family: 'Source Sans Pro', sans-serif;"
+export const primaryFont = "'Source Sans Pro', sans-serif;"
 
 export const typeScale = {
     heading1: "2rem",
